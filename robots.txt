@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+Disallow: /me.pdf
+Disallow: /all.pdf
